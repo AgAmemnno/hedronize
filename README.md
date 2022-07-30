@@ -9,6 +9,7 @@ Geometric data taken from https://github.com/paaatrick/polyhedra-folding.
 
 
 
-
+## License
+Distributed under the [GPLv3](LICENSE) License.
 
 
