@@ -10,6 +10,10 @@ Geometric data taken from https://github.com/paaatrick/polyhedra-folding.
 https://user-images.githubusercontent.com/26353500/182002372-9879ce4c-3c15-4b47-85f3-3889c4e84a00.mp4
 
 
+
+https://user-images.githubusercontent.com/26353500/182002435-d4108b3d-29cc-4404-b21f-bdee917f5464.mp4
+
+
 ## License
 Distributed under the [GPLv3](LICENSE) License.
 
