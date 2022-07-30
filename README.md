@@ -6,9 +6,12 @@ Geometric data taken from https://github.com/paaatrick/polyhedra-folding.
 
 
 ## Getting started
-https://user-images.githubusercontent.com/26353500/182002435-d4108b3d-29cc-4404-b21f-bdee917f5464.mp4
 BakeBake as ShapeKey
 
+
+
+
+https://user-images.githubusercontent.com/26353500/182002478-1e002f9e-6143-4a6a-a834-2d46432cba8c.mp4
 
 
 ## License
