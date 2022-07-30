@@ -6,7 +6,7 @@ Geometric data taken from https://github.com/paaatrick/polyhedra-folding.
 
 
 ## Getting started
-BakeBake as ShapeKey
+Bake　as ShapeKey
 
 
 
