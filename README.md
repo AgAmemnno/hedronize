@@ -1,12 +1,13 @@
 # hedronize
 
 An blender addon that lets you transform various convex polyhedra and view information about them.
-
 Geometric data taken from https://github.com/paaatrick/polyhedra-folding.
 
+## DemoReel
+https://www.artstation.com/hedrobot
 
 ## Getting started
-Bake　as ShapeKey
+Bake as ShapeKey
 
 
 
